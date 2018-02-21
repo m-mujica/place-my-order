@@ -64,6 +64,7 @@
     "done-component": "^1.0.0",
     "done-css": "^3.0.1",
     "done-serve": "^1.5.0",
+    "donejs-heroku": "^1.0.0",
     "donejs-travis": "^1.0.0",
     "generator-donejs": "^1.0.7",
     "place-my-order-api": "^0.4.4",
